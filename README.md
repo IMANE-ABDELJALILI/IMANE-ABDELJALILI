@@ -30,4 +30,4 @@ I am a passionate developer bridging the gap between robust **Java Enterprise** 
 * Exploring **Cloud Deployment** and DevOps best practices.
 
 ### 📫 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/imane-abdeljalili-b15976261)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/imane-abdeljalili-b15976261)
